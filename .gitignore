@@ -45,6 +45,7 @@
 
 # Custom Exclusions *
 .ddev/
+.idea/
 app/.htaccess
 app/autoload.php
 app/bootstrap.php
